@@ -20,7 +20,7 @@ const config = {
 const game = new Phaser.Game(config);
 
 function preload() {
-    this.load.image('esteira', 'https://via.placeholder.com/800x50');
+    this.load.image('esteira', 'https://png.pngtree.com/background/20220727/original/pngtree-abstract-black-and-white-vertical-stripe-line-pattern-random-design-background-picture-image_1838951.jpg');
     this.load.image('item', 'https://via.placeholder.com/50');
     this.load.image('cesto', 'https://via.placeholder.com/100x100');
 }
